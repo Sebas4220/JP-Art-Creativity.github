@@ -1,0 +1,385 @@
+body{
+
+background-color: #252525;
+
+}
+
+
+#card-fondo-1 {
+
+background-image: url(./Inicio/FOndo\ 1.png);
+background-size: cover;
+}
+
+
+#container{
+font-size: 15px;
+height: 70px;
+}
+
+.dropdown-menu{
+background-color: #31c7ff;
+border: none;
+position: absolute;
+}
+
+#offcanvasNavbarDropdown:focus{
+
+    color: #31c7ff;
+    font-size: 18px;
+    padding: 0px ;
+
+
+}
+
+.dropdown-menu li a:hover{
+
+background-color: #252525;
+width: 90%;
+border-top-right-radius: 1em;
+border-bottom-right-radius: 1em;
+color: white;
+
+}
+
+.offcanvas-body li a{
+
+color: white;
+
+
+}
+
+
+.offcanvas-body .nav-link:hover{
+padding: 5.3px;
+color: #31c7ff;
+font-size: 18px;
+border-bottom: solid #31c7ff 0.5px ;
+}
+
+.offcanvas-body .nav-link:active{
+
+    color: #31c7ff;
+
+    
+}
+
+.offcanvas-body .nav-link:focus{
+    color: #31c7ff;
+
+}
+
+.offcanvas{
+
+background-color: #252525;
+
+
+}
+
+.navbar-toggler{
+border: none;
+
+}
+
+
+
+
+#Contenido1 p{
+color: #ffffff;
+font-size: 12px;
+
+
+
+}
+
+
+
+
+
+#Titulo h2{
+    color: #ffffff;
+    display: inline-block;
+}
+
+
+#Planes .card{
+margin-top: 0%;
+margin-bottom: 0%;
+margin-left: 0%;
+margin-right: 0%;
+padding: 0%;
+border-radius: 0%;
+background-color: #e9e9e9;
+
+}
+
+#Planes button{
+background-color: transparent;
+color: #31c7ff;
+border: solid #31c7ff 2px;
+width: 70%;
+height: 50px;
+border-radius: 2em;
+
+}
+
+
+#Planes button:hover{
+
+background-color: #31c7ff;
+color: #ffffff;
+
+}
+
+
+
+
+#plan img{
+
+border-radius: em;
+max-height: 100%;
+border-radius: 2em;
+}
+
+
+#Contenido2 p{
+
+font-size: 15px;
+color: #ffffff;
+}
+
+
+
+
+
+#final{
+
+font-size: 12px;
+
+}
+
+
+
+
+#Boton1{
+
+background-color: #7f8cff;
+width: 68%;
+border-radius: 1em;
+border: none;
+color:#ffffff ;
+height: 40px;
+}
+
+
+#Boton1:hover{
+
+background-color: #31c7ff;
+color: #000000;
+
+}
+
+
+#Boton2{
+
+background-color: #00ff40;
+border: none;
+width: 30%;
+border-radius: 1em;
+color: #ffffff;
+height: 40px;
+
+}
+
+
+#Boton2:hover{
+
+background-color: #31c7ff;
+color: #000000;
+
+}
+
+
+#Escoge h1{
+
+    color: #252525;
+    font-size: 30px;
+}
+
+
+
+
+#DISEÑAMOS-PÁGINAS h1, 
+#DISEÑAMOS-PÁGINAS h4, 
+#DISEÑAMOS-PÁGINAS p{
+
+color: #ffffff;
+
+}
+
+
+#DISEÑAMOS-PÁGINAS h4 i{
+
+font-size: 50px;
+
+}
+
+
+
+#identidad .card,
+#identidad p,
+#identidad h1{
+width: 100%;
+border-radius: 0%;
+color: white;
+
+}
+
+
+
+#identidad .card{
+
+    background-color: #e9e9e9;
+
+}
+
+
+
+#identidad .card .card{
+
+background-color: #252525;
+border-radius: 2em;
+
+}
+
+#identidad .card a button{
+
+background-color: transparent;
+color: #ffffff;
+border: solid white 1px;
+border-radius: 2em;
+height: 50px;
+width: 100%;
+
+}
+
+
+#identidad .card a button:hover{
+
+color: #ffffff;
+background-color: #31c7ff;
+border: none;
+}
+
+
+
+#Desarrollo p{
+
+color: #ffffff;
+
+}
+
+
+#Desarrollo .carousel-item{
+position: relative;
+left: 3em;
+}
+
+#Desarrollo h1{
+
+    color: #ffffff;
+
+}
+
+
+#Streamers .container,
+#Streamers .row{
+
+height: 100%;
+
+}
+
+
+#Streamers h1{
+
+color: #ffffff;
+font-size: 70px;
+
+}
+
+
+#Streamers .card{
+
+border-radius: 0%;
+background-color: #252525;
+}
+
+
+#Streamers a button{
+
+    background-color: transparent;
+    color: #ffffff;
+    border: solid white 1px;
+    border-radius: 2em;
+    height: 50px;
+    width: 70%;
+
+}
+
+#Streamers a button:hover{
+
+    color: #ffffff;
+    background-color: #31c7ff;
+    border: none;
+
+}
+
+
+
+#contacto .card{
+
+border-radius: 0em;
+
+}
+
+
+
+#contacto h1, #contacto p{
+
+color: #252525;
+
+
+}
+
+
+#contacto a button{
+
+    width: 70%;
+
+}
+    
+
+
+
+
+
+
+
+
+#footer{
+
+
+background-color: #31c7ff;
+width: 100%;
+font-size: 12px;
+color: #ffffff;
+}
+
+
+#footer a:hover{
+
+color: #252525;
+border-bottom: solid #252525 1px;
+padding: 0%;
+margin: 0%;
+}
